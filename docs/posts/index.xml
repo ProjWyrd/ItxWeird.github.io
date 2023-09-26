@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Weird</title>
+    <link>https://itxweird.github.io/posts/</link>
+    <description>Recent content in Posts on Weird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>itxweird</copyright>
+    <lastBuildDate>Tue, 26 Sep 2023 22:21:14 +0800</lastBuildDate><atom:link href="https://itxweird.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>https://itxweird.github.io/posts/teacher_ai_clone/</link>
+      <pubDate>Tue, 26 Sep 2023 22:21:14 +0800</pubDate>
+      
+      <guid>https://itxweird.github.io/posts/teacher_ai_clone/</guid>
+      <description>I cloned my teachers voice. </description>
+      <content>&lt;h1 id=&#34;i-cloned-my-teachers-voice&#34;&gt;I cloned my teachers voice.&lt;/h1&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://itxweird.github.io/posts/first_post/</link>
+      <pubDate>Wed, 09 Aug 2023 08:18:14 +0800</pubDate>
+      
+      <guid>https://itxweird.github.io/posts/first_post/</guid>
+      <description>Hello there Hi everyone, this will be my first post on this blog, and first post using hugo, I&amp;rsquo;m really terrible at hugo, cause well&amp;hellip; uhhh&amp;hellip;
+Yeah&amp;hellip; But it&amp;rsquo;s working now which is all that matters.
+I hope to post a decent bit, my first proper post will be about how I made an AI voice for one of my teachers, it&amp;rsquo;s a good story.
+Anyways, that&amp;rsquo;s it for now, see you in the next post!</description>
+      <content>&lt;h1 id=&#34;hello-there&#34;&gt;Hello there&lt;/h1&gt;
+&lt;p&gt;Hi everyone, this will be my first post on this blog, and first post using hugo, I&amp;rsquo;m really terrible at hugo, cause well&amp;hellip; uhhh&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;workflows.png&#34; alt=&#34;losts of workflows&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yeah&amp;hellip; But it&amp;rsquo;s working now which is all that matters.&lt;/p&gt;
+&lt;p&gt;I hope to post a decent bit, my first &lt;em&gt;proper&lt;/em&gt; post will be about how I made an AI voice for one of my teachers, it&amp;rsquo;s a good story.&lt;/p&gt;
+&lt;p&gt;Anyways, that&amp;rsquo;s it for now, see you in the next post!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weird</title>
+    <link>https://itxweird.github.io/</link>
+    <description>Recent content on Weird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>itxweird</copyright>
+    <lastBuildDate>Tue, 26 Sep 2023 22:21:14 +0800</lastBuildDate><atom:link href="https://itxweird.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>https://itxweird.github.io/posts/teacher_ai_clone/</link>
+      <pubDate>Tue, 26 Sep 2023 22:21:14 +0800</pubDate>
+      
+      <guid>https://itxweird.github.io/posts/teacher_ai_clone/</guid>
+      <description>I cloned my teachers voice. </description>
+      <content>&lt;h1 id=&#34;i-cloned-my-teachers-voice&#34;&gt;I cloned my teachers voice.&lt;/h1&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://itxweird.github.io/posts/first_post/</link>
+      <pubDate>Wed, 09 Aug 2023 08:18:14 +0800</pubDate>
+      
+      <guid>https://itxweird.github.io/posts/first_post/</guid>
+      <description>Hello there Hi everyone, this will be my first post on this blog, and first post using hugo, I&amp;rsquo;m really terrible at hugo, cause well&amp;hellip; uhhh&amp;hellip;
+Yeah&amp;hellip; But it&amp;rsquo;s working now which is all that matters.
+I hope to post a decent bit, my first proper post will be about how I made an AI voice for one of my teachers, it&amp;rsquo;s a good story.
+Anyways, that&amp;rsquo;s it for now, see you in the next post!</description>
+      <content>&lt;h1 id=&#34;hello-there&#34;&gt;Hello there&lt;/h1&gt;
+&lt;p&gt;Hi everyone, this will be my first post on this blog, and first post using hugo, I&amp;rsquo;m really terrible at hugo, cause well&amp;hellip; uhhh&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;workflows.png&#34; alt=&#34;losts of workflows&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yeah&amp;hellip; But it&amp;rsquo;s working now which is all that matters.&lt;/p&gt;
+&lt;p&gt;I hope to post a decent bit, my first &lt;em&gt;proper&lt;/em&gt; post will be about how I made an AI voice for one of my teachers, it&amp;rsquo;s a good story.&lt;/p&gt;
+&lt;p&gt;Anyways, that&amp;rsquo;s it for now, see you in the next post!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://itxweird.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itxweird.github.io/about/</guid>
+      <description>About Hiya! I&amp;rsquo;m Weird, otherwise known as weird6001 or ItxWeird
+I&amp;rsquo;m a highschool student currently in year 10
+This blog is bascially where I&amp;rsquo;m going put documentation of journaling of random projects that I have, hope you enjoy!
+If you&amp;rsquo;re looking to contact me, please see here.</description>
+      <content>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Hiya! I&amp;rsquo;m Weird, otherwise known as weird6001 or ItxWeird&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a highschool student currently in year 10&lt;/p&gt;
+&lt;p&gt;This blog is bascially where I&amp;rsquo;m going put documentation of journaling of random projects that I have, hope you enjoy!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re looking to contact me, please see &lt;a href=&#34;https://itxweird.github.io/contact/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://itxweird.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itxweird.github.io/contact/</guid>
+      <description>Contact I&amp;rsquo;m usually pretty acitve on these platforms, so I should reply decently fast
+Discord: weird6001
+Twitter(X): @dingofhud
+Email: hudsonding405@gmail.com
+GitHub: github.com/ItxWeird
+If for whatever reason I don&amp;rsquo;t respond, I&amp;rsquo;m probably busy or away doing something else</description>
+      <content>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m usually pretty acitve on these platforms, so I should reply decently fast&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discord&lt;/strong&gt;: &lt;code&gt;weird6001&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Twitter(X)&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/dingofhud&#34;&gt;&lt;code&gt;@dingofhud&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;code&gt;hudsonding405@gmail.com&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ItxWeird&#34;&gt;&lt;code&gt;github.com/ItxWeird&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If for whatever reason I don&amp;rsquo;t respond, I&amp;rsquo;m probably busy or away doing something else&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
