@@ -1,4 +1,4 @@
-# personal blog
+# weird blog
 can be found at https://itxweird.github.io/
 
-has discord integration for my private discord
+its a blog man, idk what else you expected
