@@ -2,7 +2,7 @@
 title = "I cloned my teachers voice."
 date = "2023-09-26T22:21:14+08:00"
 author = "ItxWeird"
-cover = ""
+cover = "voice-waves.jpg"
 description = "The story of how I cloned my teachers voice..."
 showFullContent = false
 hideComments = false
